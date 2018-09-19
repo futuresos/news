@@ -16,7 +16,7 @@ document.writeln("						<span style=\'font-size: 8pt;\'>1</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18257.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18257.html>");
 document.writeln("						正版九宮禁肖</a></font></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
 document.writeln("						<span style=\'font-size: 8pt;\'>全年</span></td>");
@@ -27,7 +27,7 @@ document.writeln("						<span style=\'font-size: 8pt;\'>2</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18258.html\'>六合欲钱料</a></font></font></td>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18258.html>六合欲钱料</a></font></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
 document.writeln("						<span style=\'font-size: 8pt;\'>全年</span></td>");
 document.writeln("					</tr>");
@@ -37,7 +37,7 @@ document.writeln("						<span style=\'font-size: 8pt;\'>3</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18259.html\'>奇人七尾 </a></font></font></td>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18259.html>奇人七尾 </a></font></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
 document.writeln("						<span style=\'font-size: 8pt;\'>全年</span></td>");
 document.writeln("					</tr>");
@@ -46,7 +46,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt;\'>4</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18260.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18260.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						 葡京赌侠诗</font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -57,7 +57,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt;\'>5</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18261.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18261.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						奇门定位九肖</font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -68,7 +68,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt;\'>6</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18262.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18262.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						佛祖四肖料 </font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -79,7 +79,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt;\'>7</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18263.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18263.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						刘伯温玄机 </font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -90,7 +90,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt;\'>8</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18264.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18264.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						生肖歇后语</font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -101,7 +101,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt;\'>9</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18265.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18265.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						每期杀三尾 </font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -112,7 +112,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt;\'>10</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a' style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18266.html\'>");
+document.writeln("						<a' style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18266.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						 什麽是特碼</font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -123,7 +123,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt;\'>1</span><span style=\'font-size: 8pt\'>1</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18267.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18267.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						曾女士玄机诗 </font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -134,7 +134,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt;\'>1</span><span style=\'font-size: 8pt\'>2</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18268.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18268.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						稻草人玄机诗</font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -145,7 +145,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt;\'>1</span><span style=\'font-size: 8pt\'>3</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18269.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18269.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						佛祖天書 </font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -161,7 +161,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt;\'>1</span><span style=\'font-size: 8pt\'>4</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18270.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18270.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						生肖玄机诗</font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -172,7 +172,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt;\'>1</span><span style=\'font-size: 8pt\'>5</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18271.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18271.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						波色单双句 </font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -183,7 +183,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt;\'>1</span><span style=\'font-size: 8pt\'>6</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18272.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18272.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						正版输尽光</font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -194,7 +194,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt;\'>1</span><span style=\'font-size: 8pt\'>7</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18273.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18273.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						杀一行一波</font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -205,7 +205,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt;\'>1</span><span style=\'font-size: 8pt\'>8</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18274.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18274.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						夜明珠玄机</font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -216,7 +216,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt;\'>1</span><span style=\'font-size: 8pt\'>9</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18275.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18275.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						玄机四肖碼 </font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -227,7 +227,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt\'>20</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18276.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18276.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						曾道人五字诗</font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -238,7 +238,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt\'>21</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18277.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18277.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						白小姐玄机诗 </font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -249,7 +249,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt\'>22</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18278.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18278.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						正版输尽光</font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -260,7 +260,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt\'>23</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18279.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18279.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						一句玄机料</font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -271,7 +271,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt\'>24</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18280.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18280.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						成语生肖</font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -282,7 +282,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt\'>25</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18281.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18281.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						另版输尽光</font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");
@@ -293,7 +293,7 @@ document.writeln("						<td width=\'20\' align=\'center\' style=\'margin: 0px; p
 document.writeln("						<span style=\'font-size: 8pt\'>26</span></td>");
 document.writeln("						<td width=\'165\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#efefef\'>");
 document.writeln("						<font color=\'#000000\' style=\'-ms-word-wrap: break-word;\'>");
-document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18282.html\'>");
+document.writeln("						<a style=\'outline: 0px; color: rgb(68, 68, 68); text-decoration: none; -ms-word-wrap: break-word; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\' target=\'_blank\' href=http://www.498497.com/topic/18282.html>");
 document.writeln("						<font style=\'font-size: 11pt; -ms-word-wrap: break-word;\'>");
 document.writeln("						 一句梅花诗</font></a></font></td>");
 document.writeln("						<td width=\'33\' align=\'center\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(255, 255, 255); font-size: 10pt; -ms-word-break: break-all; -ms-word-wrap: break-word;\' bgcolor=\'#66ccff\'>");

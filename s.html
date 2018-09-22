@@ -1,50 +1,227 @@
+<!DOCTYPE HTML>
 <html>
 <head>
 <meta charset="utf-8">
-<title>HTML5在线代码编辑器输入特效</title>
-
-<link rel="stylesheet" href="codemirror/lib/codemirror.css">
-<link rel="stylesheet" href="codemirror/theme/monokai.css">
-<style>
-body {
-	margin: 0;
-	padding: 0;
-	background: #222;
-}
-
-/* Codemirror */
-.Codemirror {
-	width: 100%;
-	height: 100%;
-	font-size: 20px;
-}
-
-</style>
-
+<title>&#x514d;&#x8d39;&#x8d44;&#x6599;&#x5927;&#x5168;&#x0020;&#xff0d;&#x0020;&#x516d;&#x5408;&#x5f69;&#x5f00;&#x5956;&#x8bb0;&#x5f55;&#x76f4;&#x64ad;&#x0020;&#x002d;&#x0020;&#x4e2d;&#x534e;&#x9a6c;&#x795e;&#x9ad8;&#x624b;&#x8bba;&#x575b;&#x007c;&#x5f69;&#x8272;&#x56fe;&#x5e93;&#x007c;&#x9999;&#x6e2f;&#x516d;&#x5408;&#x5f00;&#x5956;&#x7ed3;&#x679c;&#x007c;&#x5386;&#x53f2;&#x5f00;&#x5956;&#x7eaa;&#x5f55;&#x007c;&#x516d;&#x5408;&#x6405;&#x73e0;&#x7ed3;&#x679c;</title>
+<META name=viewport content="width=device-width; initial-scale=1.0; maximum-scale=1.0; minimum-scale=1.0; user-scalable=no;">
+<META name=MobileOptimized content=480>
+<meta name="keywords" content="&#x516d;&#x5408;&#x5f69;&#x514d;&#x8d39;&#x8d44;&#x6599;&#x5927;&#x5168;&#x0020;&#xff0d;&#x0039;&#x0031;&#x0031;&#x0031;&#x0038;&#x0038;&#x002e;&#x0063;&#x006f;&#x006d;&#x002d;&#x0020;&#x516d;&#x5408;&#x5f69;&#x5f00;&#x5956;&#x8bb0;&#x5f55;&#x76f4;&#x64ad;&#x0020;&#x002d;&#x0020;&#x4e2d;&#x534e;&#x9a6c;&#x795e;&#x9ad8;&#x624b;&#x8bba;&#x575b;&#x007c;&#x5f69;&#x8272;&#x56fe;&#x5e93;&#x007c;&#x9999;&#x6e2f;&#x516d;&#x5408;&#x5f00;&#x5956;&#x7ed3;&#x679c;&#x007c;&#x5386;&#x53f2;&#x5f00;&#x5956;&#x7eaa;&#x5f55;" />
+<meta name="description" content="&#x0039;&#x0031;&#x0031;&#x0031;&#x0038;&#x0038;&#x002e;&#x0063;&#x006f;&#x006d;&#xff0d;&#x0020;&#x4e2d;&#x534e;&#x9a6c;&#x795e;&#x9ad8;&#x624b;&#x8bba;&#x575b;&#xff0d;&#x5f00;&#x5956;&#x73b0;&#x573a;&#x7b2c;&#x4e00;&#x65f6;&#x95f4;&#x66f4;&#x65b0;&#x5f00;&#x5956;&#x7ed3;&#x679c;&#x002c;&#x4e0d;&#x7528;&#x7535;&#x8111;&#x4e0a;&#x7f51;&#x4e5f;&#x53ef;&#x4ee5;&#x7528;&#x624b;&#x673a;&#x67e5;&#x770b;&#x6700;&#x65b0;&#x5f00;&#x5956;&#x7ed3;&#x679c;" />
 </head>
 <body>
+<body>
+<link href="/CSS/style.css" rel="stylesheet" type="text/css" />
+﻿<header class="header">
 
-<script src="http://601321.com/zx/codemirror/lib/codemirror.js"></script>
-<script src="http://601321.com/zx/codemirror/addon/edit/closetag.js"></script>
-<script src="http://601321.com/zx/codemirror/mode/xml/xml.js"></script>
-<script src="http://601321.com/zx/codemirror/mode/javascript/javascript.js"></script>
-<script src="http://601321.com/zx/codemirror/mode/css/css.js"></script>
-<script src="http://601321.com/zx/codemirror/mode/htmlmixed/htmlmixed.js"></script>
-<script src="http://601321.com/zx/code-blast.js"></script>
+<style>
+.new_header .logo {
+	float: left;
+	background: url(/logo.png) no-repeat 0 0
+}
+.new_header .logo {
+	width: 154px;
+	height: 43px;
+	margin-top: 18px;
+	background-size: 154px 43px
+}
+@media screen and (min-width:800px) {
+.new_header .logo {
+	width: 231px;
+	height: 65px;
+	margin-top: 18px;
+	background-size: 231px 65px
+}
+}
+</style>
 
-<script>
-window.cm = CodeMirror(document.body, {
-	lineNumbers: true,
-	mode:  "htmlmixed",
-	theme: 'monokai',
-	lineWrapping: true,
-	autofocus: true,
-	tabSize: 2,
-	value: "<article>\n  <h1>Code blast plugin for Codmirror</h1>\n  <div class=\"based-on\">\n    适用浏览器：360、FireFox、Chrome、Opera、傲游、搜狗、世界之窗. 不支持Safari、IE8及以下浏览器。</div>\n  \n  <div>\n\t   911188：911188.com.\n  </div>\n  \n</article>",
-	autoCloseTags: true,
-	blastCode: { effect: 2 },
-});
-</script>
+
+    <section class="topbar">
+        <a href="http://601629.com/">欢迎光临本站.一起中大奖!</a>
+        <div class="op"><a class="fav" href="/">网站首页</a></div>
+    </section>
+    <section class="new_header">
+        <a href="http://911188.com/" class="logo"></a>
+        <div class="weather_area">
+            <p class="weather_icon"></p>
+            <p><a href="http://601629.com/year.html">开奖历史记录</a></p>
+        </div>
+    </section>
+	
+	
+    <section class="search_box">
+		<form action="http://rbav.cc/index.php?s=/search/index.html" method="post" class="boxform">
+            <div class="inputbox"><input name="keyword" type="hidden" value="search" /><input type="text" name="keyword" id="keyword" placeholder="AV搜索" class="search_inp" autocomplete="off" x-webkit-speech="" x-webkit-grammar="builtin:search" lang="zh-CN" autocapitalize="off"></div>
+            <div class="submitbox"><input type="submit" class="btn_search" value=""></div>
+        </form>
+    </section>
+		
+</header>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="http://www.sinacloud.com/static/home/script/app/zclip.min.js"></script>
+	
+<div class="container">
+<!-- 开奖 -->
+	<section class="mod_box">
+        <div class="tit_th">
+            <h2><b><font color="#0000FF">911188.COM</font></b>《		<a href="http://rbav.cc/" target="_blank" style="color: #e55555;">AV电影</a>
+                <a href="http://911188.com/" target="_blank" style="color: #4e7ad3;">美女直播</a>
+                <a href="http://spykt.COM/" target="_blank" style="color: #e55555;">性爱技巧</a>
+                <a href="http://800000000.cc/" target="_blank" style="color: #4e7ad3;">激情小说</a>
+                <a href="http://911188.com/" target="_blank" style="color: #e55555;">亚洲色情</a>
+
+		</ul>
+
+》点击有喜</h2>
+        </div>
+
+		
+              <div class="site_nav2">
+            <ul class="clearfix">
+				            </ul>
+			<i class="icon_1"></i>
+        </div>			
+		
+    </section>	
+  
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td>
+
+<div><iframe src="http://911188.com/gg.html" frameborder="0" scrolling="NO" width="100%" height="40" target="_blank" name="I2"></iframe></div>
+
+</td>
+	
+    </section>	
+
+    <section class="mod_box">
+        <iframe src="/kj.html" frameborder="0" style="width:100%;height:150px;" target="_blank"></iframe>
+    </section>
+	
+</tr>
+</tbody>
+</table>	
+
+	
+    <section class="mod_box">
+        <div class="tit_th">
+            <i class="icon_1"></i>
+            <h2><b><font color="#FF0000">本站预测结果：</font></b>03 06 08 12 15 19 23 25 32 34 36 39 42 44 48</h2>
+ 
+    </section>
+
+	    
+	    
+    <section class="mod_box">
+        <div class="tit_th">
+            <i class="icon_1"></i>
+            <h2><b><font color="#0000FF">601629.com</font></b>2018年最权威全年资料</h2>
+        </div><SCRIPT src=http://www.601629.com/JS/qnzl.js></SCRIPT>
+<SCRIPT src=http://www.601629.com/JS/ADZL.js></SCRIPT>
+<SCRIPT src=http://www.601629.com/JS/pgt.js></SCRIPT>
+<SCRIPT src=http://www.601629.com/JS/shymjxj.js></SCRIPT>
+<SCRIPT src=http://www.601629.com/JS/meiv.js></SCRIPT>
+
+
+
+    </section>
+
+</ul>
+        </div>
+    </section>
+
+<section class="mod_box">
+
+</section>
+
+<div class="box">
+    <section class="mod_box">
+        <div class="tit_th">
+            <i class="icon_1"></i>
+            <h2><b><font color="#0000FF">911188.COM</font></b>新版跑狗彩报-自动更新</h2>
+        </div>
+		
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+	<tbody>
+	<tr>
+		<td>
+		<p align="center"><img src="https://www.paogou444.com/paogou.jpg" border="0" width="100%" height="100%"></p></td>
+	</tr>
+</tbody>
+</table>		
+		
+    </section>
+	
+    <section class="mod_box">
+        <div class="tit_th">
+            <i class="icon_1"></i>
+            <h2><b><font color="#FF0000">911188.COM</font></b>601629.COM <font color="#FF0000">800000000.cc</font> 《精选马料区》长期免费公开</h2>
+        </div><SCRIPT src=/JS/jxml.js></SCRIPT>
+    </section>
+
+	
+	<section class="mod_box">
+        <div class="tit_th">
+            <i class="icon_1"></i>
+            <h2><b><font color="#0000FF">911188.COM</font></b>《		<a href="http://rbav.cc/" target="_blank" style="color: #e55555;">AV电影</a>
+                <a href="http://911188.com/" target="_blank" style="color: #4e7ad3;">美女直播</a>
+                <a href="http://spykt.COM/" target="_blank" style="color: #e55555;">性爱技巧</a>
+                <a href="http://rbav.cc/" target="_blank" style="color: #4e7ad3;">激情小说</a>
+                <a href="http://800000000.cc/" target="_blank" style="color: #e55555;">亚洲色情</a>
+
+		</ul>
+
+》点击有喜</h2>
+        </div>
+              <div class="site_nav2">
+            <ul class="clearfix">
+			            </ul>
+			<i class="icon_1"></i>
+        </div>		
+		
+    </section>	
+	
+	
+    <section class="mod_box">
+        <iframe src="/kj.html" frameborder="0" style="width:100%;height:150px;" target="_blank"></iframe>
+    </section>
+
+
+	<section class="mod_box">
+        <div class="tit_th">
+            <h2><b><font color="#0000FF">911188.COM</font></b>《		<a href="http://rbav.cc/" target="_blank" style="color: #e55555;">AV电影</a>
+                <a href="http://911188.com/" target="_blank" style="color: #4e7ad3;">美女直播</a>
+                <a href="http://spykt.COM/" target="_blank" style="color: #e55555;">性爱技巧</a>
+                <a href="http://800000000.cc/" target="_blank" style="color: #4e7ad3;">激情小说</a>
+                <a href="http://911188.com/" target="_blank" style="color: #e55555;">亚洲色情</a>
+
+		</ul>
+
+》点击有喜</h2>
+        </div>
+
+		
+              <div class="site_nav2">
+            <ul class="clearfix">
+				            </ul>
+			<i class="icon_1"></i>
+        </div>			
+		
+    </section>	
+			<!--首页-程序制作911188.com -->
+						<!--首页-结束-->
+	
+</div>
+﻿<footer class="footer">
+    <nav class="nav">
+	<a target="_blank" href="http://911188.com/about_mzsm.html">免责声明</a>|
+	<a target="_blank" href="http://911188.com/about_ystk.html">私隐条款</a>|
+	<a target="_blank" href="http://911188.com/about_hz.html">广告合作</a>
+	</nav>
+    <p class="copyright">Copyright @2018 <span class="site">中华马神高手论坛</span>版权所有 不得转载</p>
+
+<script type="text/javascript" src="https://js.users.51.la/19273650.js"></script>
+
 
 </body>
 </html>

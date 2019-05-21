@@ -1,0 +1,308 @@
+﻿* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {background:#000;
+	
+	color: rgb(51, 51, 51);
+	font-family: "微软雅黑";
+	font-size: 12px;
+}
+
+li {
+	list-style: none;
+}
+
+img {
+	border: currentColor;
+	border-image: none;
+	display: block;
+}
+
+a {
+	color: rgb(34, 34, 34);
+	text-decoration: none;
+}
+
+a:hover {
+	color: rgb(204, 0, 0);
+	text-decoration: none;
+}
+
+.clear {
+	clear: both;
+}
+
+.left {
+	float: left;
+	display: inline;
+}
+
+.right {
+	float: right;
+	display: inline;
+}
+
+.wrap {
+	margin: 0px auto;
+	width: 980px;
+	clear: both;
+	border: 1px solid rgb(217, 217, 217);
+}
+
+.navigation_each {
+	height: 50px;
+	border-bottom-color: rgb(255, 255, 255);
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+.navigation_each a {
+	background: rgb(102, 102, 102);
+	width: 106px;
+	height: 50px;
+	text-align: center;
+	color: rgb(255, 255, 255);
+	line-height: 40px;
+	font-size: 16px;
+	border-left-color: rgb(153, 153, 153);
+	border-left-width: 1px;
+	border-left-style: solid;
+	float: left;
+	display: inline;
+}
+
+.navigation_each a:hover {
+	background: rgb(0, 0, 0);
+	color: rgb(255, 255, 255);
+}
+
+.navigation_each a.a1 {
+	background: rgb(29, 122, 217);
+	border: currentColor;
+	border-image: none;
+	width: 124px;
+}
+
+.navigation_each a.a1:hover {
+	background: rgb(170, 0, 0);
+}
+
+.main {
+	background: rgb(255, 255, 255);
+	margin: 8px auto 0px;
+	border: 1px solid rgb(217, 217, 217);
+	border-image: none;
+	width: 978px;
+	clear: both;
+}
+
+.main_nav {
+	height: 66px;
+}
+
+.main_nav .left {
+	background: url("arrow.png") no-repeat 0px;
+	height: 66px;
+	color: rgb(53, 52, 52);
+	line-height: 66px;
+	padding-left: 36px;
+	font-size: 24px;
+	margin-left: 36px;
+}
+
+.main_nav_amount {
+	line-height: 66px;
+	font-size: 16px;
+	margin-right: 36px;
+}
+
+.main_nav_amount span {
+	padding: 0px 3px;
+	color: rgb(204, 0, 0);
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.list a {
+	margin: 0px 0px 15px 36px;
+	width: 202px;
+	text-align: center;
+	overflow: hidden;
+	float: left;
+	display: inline;
+}
+
+.list a * {
+	display: block;
+	cursor: pointer;
+}
+
+.list a img {
+	border: 1px dotted rgb(204, 204, 204);
+	border-image: none;
+	width: 200px;
+	height: 280px;
+}
+
+.list a span {
+	height: 32px;
+	line-height: 32px;
+	overflow: hidden;
+	padding-top: 4px;
+	font-size: 16px;
+}
+
+.list a em {
+	background: rgb(136, 136, 136);
+	margin: 0px auto;
+	padding: 0px 13px;
+	border-radius: 13px;
+	width: 50px;
+	height: 22px;
+	color: rgb(255, 255, 255);
+	line-height: 22px;
+	font-style: normal;
+	text-shadow: 1px 1px 1px #000;
+}
+
+.list a:hover img {
+	border-color: rgb(170, 170, 170);
+}
+
+.list a:hover em {
+	background: rgb(119, 119, 119);
+}
+
+.footer {
+	height: 60px;
+	text-align: center;
+	line-height: 60px;
+}
+
+.location {
+	background: rgb(255, 255, 255);
+	margin: 8px auto;
+	border: 1px solid rgb(221, 221, 221);
+	border-image: none;
+	width: 958px;
+	height: 100px;
+	
+	padding-left: 20px;
+	clear: both;
+}
+
+.location2 {
+	background: rgb(255, 255, 255);
+	margin: 8px auto;
+	border: 1px solid rgb(221, 221, 221);
+	border-image: none;
+	width: 958px;
+	height: 35px;
+	line-height: 35px;
+	padding-left: 20px;
+	clear: both;
+}
+.player {
+	background: url("player_btn_1.jpg") no-repeat 0px bottom rgb(0, 0, 0);
+	width: 635px;
+	height: 420px;
+	text-align: center;
+	float: left;
+	display: inline;
+}
+
+.player * {
+	cursor: pointer;
+}
+
+.player:hover {
+	color: rgb(255, 255, 0);
+}
+
+.player_tip1 {
+	color: rgb(255, 255, 0);
+	padding-top: 70px;
+	font-size: 26px;
+}
+
+.player_tip2 {
+	height: 140px;
+	color: rgb(255, 255, 0);
+	line-height: 70px;
+	font-size: 26px;
+}
+
+.player_tip2 span {
+	color: rgb(255, 0, 0);
+}
+
+.player_tip3 {
+	color: rgb(0, 153, 0);
+	padding-top: 40px;
+	font-size: 22px;
+}
+
+.player_down {
+	background: url("playbtn.png") center no-repeat;
+	margin: 0px auto;
+	width: 210px;
+	height: 95px;
+       _background:url(playbtn.gif) center no-repeat;
+	 _margin: 0px auto;
+	 _width: 210px;
+	 _height: 95px;
+ 
+}
+
+.player_right {
+	
+	width: 440px;
+    font-size: 14px;
+    color: red;
+    font-size: 20px;
+}
+.player_right img{
+	width: 100%;
+
+}
+.player_right_nav {
+	height: 40px;
+	text-align: center;
+	color: rgb(204, 0, 0);
+	line-height: 40px;
+}
+
+.player_right a {
+	padding: 0px 15px;
+	height: 35px;
+	line-height: 35px;
+	overflow: hidden;
+	border-top-color: rgb(221, 221, 221);
+	border-top-width: 1px;
+	border-top-style: dotted;
+	display: block;
+}
+	
+.player_loader{
+	width: 100%;
+    height: 7%;
+    background: url(player_loader.png) no-repeat;
+    margin-bottom: 0;
+    background-size: 100%;
+}
+
+.player_main{
+	width: 100%;
+	height: 93%;
+	background: url("2.gif") no-repeat;
+	background-size: ;
+	/*background: url("2.gif") no-repeat;*/
+	/*background-size: ;*/
+}
+#ad_div{
+	opacity: 0;
+	z-index: 9999;
+	position: absolute;
+}

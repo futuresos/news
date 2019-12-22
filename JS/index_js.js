@@ -1,8 +1,8 @@
-﻿var renderList = [
+var renderList = [
 	{
-	    name:'导航-常用网址',
+	    name:'导航-好看电影',
 		data: [
-	    	["北京首条磁浮列车线路年底试运营", "http://WWW.avnyw.Com/zaijuan1/178_2.php", "http://wx3.sinaimg.cn/mw690/006VpR0egy1fsfelys4ktg30dw07d4qp.gif"],
+	    	["北京首条磁浮列车线路年底试运营", "http://avnyw.com/index.php?s=/movie/index/id/32821.html", "http://img.weituku.cc/upload/vod/2019-12-20/201912201576852827.jpg"],
 	    	["世界眼中的中国奇迹", "http://WWW.avnyw.Com/zaijuan1/178_6.php", "http://wx2.sinaimg.cn/mw690/006VpR0egy1fsfdigxms9g30dw07tnpd.gif"],
 	    	["宝马与长城合作或存变数", "http://WWW.avnyw.Com/zaijuan1/178_7.php", "http://wx4.sinaimg.cn/mw690/006VpR0egy1fsfdiflrdcg30b4060e81.gif"],
 			["保监会连发五道监管函", "http://WWW.avnyw.Com/zaijuan2/178_2.php", "http://wx1.sinaimg.cn/mw690/006VpR0egy1fsfdhuw32dg309606snpd.gif"],

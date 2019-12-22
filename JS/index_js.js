@@ -18,7 +18,7 @@ var renderList = [
 			["人工智能+传统产业=新产业", "http://WWW.avnyw.Com/zaijuan4/179_11.php", "http://wx2.sinaimg.cn/mw690/006VpR0egy1fsfd6fciadg30dw07tx0j.gif"],
 			["微山为医疗卫生体制改革提供经验", "http://WWW.avnyw.Com/zaijuan5/179_5.php", "http://wx4.sinaimg.cn/mw690/006VpR0egy1fsfdb6pim8g30as06c4qu.gif"],
 			["银监会连续批准筹银行", "http://WWW.avnyw.Com/zaijuan5/179_6.php", "http://wx2.sinaimg.cn/mw690/006VpR0egy1fsfdb2okwgg30dw07te81.gif"],
-			["成都举办2017西部金融论坛", "http://WWW.avnyw.Com/zaijuan5/179_7.php", "http://wx3.sinaimg.cn/mw690/006VpR0egy1fsfdb8fmjog309x05k4qq.gif"],
+			["广州举办2019西部金融论坛", "http://WWW.avnyw.Com/zaijuan5/179_7.php", "http://img.weituku.cc/upload/vod/2019-12-20/201912201576852464.jpg"],
 			["阿里巴巴对新零售的展望", "http://WWW.avnyw.Com/zaijuan5/179_11.php", "http://wx4.sinaimg.cn/mw690/006VpR0egy1fsfdbxck70g309c05v7wl.gif"],
 			["证金公司连续减持贵州茅台", "http://WWW.avnyw.Com/zaijuan6/179.php", "http://wx3.sinaimg.cn/mw690/006VpR0egy1fsfdcw9d03g30be07t7wi.gif"],
 			["新车融资租赁迎来资本春天", "http://WWW.avnyw.Com/zaijuan6/179_4.php", "http://wx3.sinaimg.cn/mw690/006VpR0egy1fsfdcx3n55g308w0507we.gif"]

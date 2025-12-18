@@ -75,10 +75,11 @@ function showScroll() {
 		       alert("抱歉，此操作被浏览器拒绝！\n\n请在浏览器地址栏输入“about:config”并回车然后将[signed.applets.codebase_principal_support]设置为'true'");
 		     }
 		    }else{
-		    	alert("您的浏览器不支持,请按下面步骤操作:1.打开浏览器设置。2.点击设置网页。3.输入:http://www.I446.com点击确认");
+		    	alert("您的浏览器不支持,请按下面步骤操作:1.打开浏览器设置。2.点击设置网页。3.输入:http://300155.com点击确认");
 		    }
 		 }
 		}
+
 
 
 
